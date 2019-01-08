@@ -1,0 +1,7 @@
+.idea/
+*.zip
+.git/
+.ipynb_checkpoints/
+not_upload/
+model/
+data/
