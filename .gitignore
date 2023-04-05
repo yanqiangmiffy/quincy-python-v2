@@ -5,3 +5,5 @@
 not_upload/
 model/
 data/
+wandb
+*.csv
